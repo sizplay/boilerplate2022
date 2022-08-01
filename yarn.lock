@@ -2148,6 +2148,7 @@ __metadata:
     react-dom: 18.2.0
     react-is: ^18.2.0
     styled-components: ^5.3.5
+    styled-reset: ^4.4.2
     typescript: 4.7.4
   languageName: unknown
   linkType: soft
@@ -2795,6 +2796,15 @@ __metadata:
     babel-plugin-macros:
       optional: true
   checksum: 86d55819ebeabd283a574d2f44f7d3f8fa6b8c28fa41687ece161bf1e910e04965611618921d8f5cd33dc6dae1033b926a70421ae5ea045440a9861edc3e0d87
+  languageName: node
+  linkType: hard
+
+"styled-reset@npm:^4.4.2":
+  version: 4.4.2
+  resolution: "styled-reset@npm:4.4.2"
+  peerDependencies:
+    styled-components: ">=4.0.0 || >=5.0.0"
+  checksum: 1ee15f63911795d612548d9c77840c0b055ddb168199fb2b6147ab15a5e1a7ce67df573b224c4cabd98f303c61fd05100f9c3653ac011098f7d09b8118226183
   languageName: node
   linkType: hard
 
